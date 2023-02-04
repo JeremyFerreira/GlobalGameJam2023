@@ -1,3 +1,0 @@
-prix de la voiture: 27 000$
-Data d'achat: 22 décembre
-Model de la voiture: Tesla
