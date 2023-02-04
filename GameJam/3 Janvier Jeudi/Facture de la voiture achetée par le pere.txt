@@ -1,0 +1,4 @@
+Prix de la voiture: 27 000$
+Date d'achat: 22 décembre
+Modèle de la voiture: Tesla
+Nom de l'acheteur : Michael Johnson

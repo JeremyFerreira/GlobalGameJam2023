@@ -1,4 +1,4 @@
-1 - berretta 1915 calibre 19 mm
-2 - glock 27, calibre 27 mm
-3 - tokarev tt33, calibre 25 mm
-4 - revolver C42, calibre 12 mm
+1 - Berretta 1915 : calibre 19 mm
+2 - Glock 27 : calibre 27 mm
+3 - Tokarev tt33 : calibre 25 mm
+4 - Revolver C42 : calibre 12 mm
