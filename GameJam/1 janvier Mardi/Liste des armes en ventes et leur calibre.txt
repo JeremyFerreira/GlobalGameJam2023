@@ -2,3 +2,30 @@
 2 - Glock 27 : calibre 27 mm
 3 - Tokarev tt33 : calibre 25 mm
 4 - Revolver C42 : calibre 12 mm
+
+
+
+Berretta 1915
+poid 850 g
+Calibre 19mm
+Capacité du chargeur 7 cartouches
+Longeur total 	150 mm canon 85 mm
+
+Glock 27 
+poid 620g
+calibre 27mm
+capacité du chargeur 10 cartouches
+longueur total 160mm canon 88mm
+
+Tokarev tt33
+poid 910g
+calibre 25mm
+capacite du chargeur 8 cartouches
+longueur total 196mm 116mm
+
+Revolver C42
+poid 840g
+calibre 12mm
+capacité du chargeur 15 cartouches
+longueur total 140mm canon 78mm
+

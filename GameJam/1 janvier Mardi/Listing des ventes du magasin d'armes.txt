@@ -19,3 +19,49 @@ Tom Gates, date 17/03/2022
 - Revolver C42:
 
 Bobby Brown, date 16/08/2022
+
+
+- Glock 27:
+
+Mr Johnson, date 06/12/2022 CHECK
+Jean Marquinot, date 17/12/2022 CHECK
+
+- Berreta 1915 :
+
+Michael Johnson, date 25/12/2022 CHECK
+Aymerick Angina, date 15/12/2022 CHECK
+Patrick spike, date 08/12/2022 CHECK
+
+- Tokarev tt33:
+
+Mark Spencer, date 16/12/2022 CHECK
+Tom Gates, date 30/12/2022 CHECK
+
+- Revolver C42:
+
+Bobby Brown, date 12/12/2022 CHECK
+
+
+Mr Johnson, date 06/12/2022 Glock 27
+
+Patrick spike, date 08/12/2022 Berreta 1915
+
+Bobby Brown, date 12/12/2022 Revolver C42
+
+Aymerick Angina, date 15/12/2022 Berreta 1915
+
+Mark Spencer, date 16/12/2022 Tokarev tt33
+
+Jean Marquinot, date 17/12/2022 Glock 27
+
+Michael Johnson, date 25/12/2022 Berreta 1915
+
+Tom Gates, date 30/12/2022 Tokarev tt33
+
+
+
+
+
+
+
+
